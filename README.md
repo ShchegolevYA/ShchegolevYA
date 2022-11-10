@@ -11,6 +11,12 @@
 [![Facebook](https://img.shields.io/badge/-Facebook-373534?style=for-the-badge&logo=Facebook&logoColor=1195F5)](https://www.facebook.com/yashchegolev)
 
 </div>
+
+<div style="text-align: center;">
+
+[![Telegram](https://img.shields.io/badge/-Telegram-373534?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/yashchegolev)
+
+</div>
  
 
 
