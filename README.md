@@ -1,7 +1,6 @@
 # Welcome!
 [![logo](https://github.com/ShchegolevYA/ShchegolevYA/blob/main/png/Iurii%20Shchegolev.png)](https://twitter.com/yashchegolev)
 
-
 <div style="text-align: center;">
   
 [![Telegram](https://img.shields.io/badge/-Telegram-373534?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/yashchegolev)
