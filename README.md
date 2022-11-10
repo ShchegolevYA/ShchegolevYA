@@ -12,12 +12,12 @@
 
 </div>
 
-<div style="text-align: center;">
+* Crypto enthusiast
+* Ambassador of blockchain projects
+* Validator
 
-[![Telegram](https://img.shields.io/badge/-Telegram-373534?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/yashchegolev)
+# My portfolio
 
-</div>
- 
 
 
 ![Ambassador](https://github.com/ShchegolevYA/ShchegolevYA/blob/main/png/Ambassador.png)
