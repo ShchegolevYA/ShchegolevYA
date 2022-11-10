@@ -3,7 +3,7 @@
 
 <div style="text-align: center;">
   
-[![DISCORD](https://img.shields.io/badge/-DISCORD-373534?style=for-the-badge&logo=DISCORD&logoColor=27A0D9)](https://discord.com/Iurii Shchegolev#1206)
+[![DISCORD](https://img.shields.io/badge/-DISCORD-373534?style=for-the-badge&logo=DISCORD&logoColor=27A0D9)](https://discord.com/channels/@me/943935407903608873)
 [![Telegram](https://img.shields.io/badge/-Telegram-373534?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/yashchegolev)
 [![YouTube](https://img.shields.io/badge/-YouTube-373534?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/channel/UCHJ7CHzWSxiN43U371hUpzQ)
 [![Instagram](https://img.shields.io/badge/-Instagram-373534?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/yashchegolev)
